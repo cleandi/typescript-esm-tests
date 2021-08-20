@@ -1,0 +1,17 @@
+{
+  "name": "tdi-typescript-tests",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "npm install && npx tsc --build && node test.js && echo OK"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^16.6.2",
+    "cleandi": "^5.0.12",
+    "typescript": "^4.3.5"
+  }
+}
