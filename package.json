@@ -1,5 +1,5 @@
 {
-  "name": "tdi-typescript-tests",
+  "name": "tdi-typescript-esm-tests",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
