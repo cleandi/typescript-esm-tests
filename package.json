@@ -11,7 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "@types/node": "^16.6.2",
-    "cleandi": "^5.0.12",
+    "cleandi": "latest",
     "typescript": "^4.3.5"
   }
 }
